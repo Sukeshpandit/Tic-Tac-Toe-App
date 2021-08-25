@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="game">game</string>
+    <string name="gridimage">gridImage</string>
+    <string name="gridImage">GRID</string>
+    <string name="imageview">imageview</string>
+    <string name="_2players">2 players</string>
+    <string name="singleplayer">singleplayer</string>
+    <string name="Singleplayer">Singleplayer</string>
+</resources>
